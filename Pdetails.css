@@ -1,0 +1,9 @@
+img {
+  max-width: 27%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+  border-radius: 5px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+}
